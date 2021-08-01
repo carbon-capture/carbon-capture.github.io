@@ -1,0 +1,6 @@
+User-agent: googlebot
+Disallow: favicon.png
+Disallow: manifest.json
+Disallow: version.json
+Disallow: .last_build_id
+Disallow: /icons/
