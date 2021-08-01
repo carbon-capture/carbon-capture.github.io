@@ -1,11 +1,11 @@
 {
     "name": "carboncapturechallenge",
-    "short_name": "carboncapturechallenge",
+    "short_name": "CCC",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "We are a team of people concerned about the enviroment. We are based all over the world, the US, Australia, Europe. We are working to provide carbon capture to the millions, with in home Carbon Capture. Potentially providing health benefits, and with out Water Heater project, you'll be able to heat water while feeling good about yourself!    ",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

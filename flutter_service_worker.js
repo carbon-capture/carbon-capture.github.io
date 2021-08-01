@@ -15,10 +15,10 @@ const RESOURCES = {
 "assets/AssetManifest.json": "801125fca546f506babac9af4ec061ba",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
-"index.html": "b4273e2b39cdea6efbc096b4f8d2c839",
-"/": "b4273e2b39cdea6efbc096b4f8d2c839",
+"index.html": "582a3580d3329b9b07bfc641ca74cbd3",
+"/": "582a3580d3329b9b07bfc641ca74cbd3",
 "version.json": "bd5b676f441a7211ac4247aa63def943",
-"manifest.json": "2c5ed202c00d3cd6e494966f2c8cd0cb",
+"manifest.json": "b4941b292c0233e5f461bb266d6207cd",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796"
 };
 
